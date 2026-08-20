@@ -4,7 +4,7 @@
 
 DevTrack is a full-stack developer dashboard that combines project tracking, job hunting, coding analytics, interview prep and focus tools — all in one place, built for developers by a developer.
 
-![DevTrack Dashboard]( https://devtrack-alpha.vercel.app)
+![DevTrack Dashboard]( https://devtrack-alpha.vercel.app/dashboard)
 
 ## 🚀 Live App
 
