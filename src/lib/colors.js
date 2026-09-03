@@ -1,0 +1,16 @@
+export const C = {
+  bg: '#080810',
+  bg2: '#0d0d1a',
+  bg3: '#111120',
+  border: '#1e2035',
+  cyan: '#06b6d4',
+  cyanLight: '#22d3ee',
+  green: '#10b981',
+  amber: '#f5a623',
+  red: '#e85555',
+  blue: '#4a9ef5',
+  purple: '#818cf8',
+  text: '#f0f0ff',
+  text2: '#8888a8',
+  text3: '#4a4a6a',
+};
