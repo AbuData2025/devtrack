@@ -1,10 +1,13 @@
 # ⚡ DevTrack — Developer OS
 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=FFD62E)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)
+
 > Your personal command center for everything dev.
 
 DevTrack is a full-stack developer dashboard that combines project tracking, job hunting, coding analytics, interview prep and focus tools — all in one place, built for developers by a developer.
-
-![DevTrack Dashboard]( https://devtrack-alpha.vercel.app/dashboard)
 
 ## 🚀 Live App
 
